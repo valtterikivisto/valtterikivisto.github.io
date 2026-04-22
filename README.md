@@ -9,9 +9,8 @@ Nimeni on Valtteri ja olen 25-vuotias mies Jyväskylästä ja opiskelen tietotek
 print("Hello world!")
 ```
 
-## Hälytys-esimerkki
->[!NOTE]
->Voit käyttää GitHub-pagesia staattisen sivun isännöintiin
+## Linkki-esimerkki
+Täss on linkki [Googleen](https://www.google.com/).
 
 ## Lista-esimerkki
 - Ensimmäinen
